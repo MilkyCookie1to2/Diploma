@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SharinganLoader.qml</file>
+        <file>heal_icon.svg</file>
+        <file>arrow_icon.svg</file>
+        <file>heart_icon.svg</file>
+    </qresource>
+</RCC>
